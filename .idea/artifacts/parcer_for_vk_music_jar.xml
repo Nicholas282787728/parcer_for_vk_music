@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="parcer_for_vk_music:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/parcer_for_vk_music_jar</output-path>
+    <root id="archive" name="parcer_for_vk_music.jar">
+      <element id="module-output" name="parcer_for_vk_music" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/java-json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
